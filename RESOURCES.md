@@ -1,3 +1,4 @@
 Current place in tutorial: 
-1.4 Version control with Git
-https://www.railstutorial.org/book/beginning#sec-version_control
+Chapter 2
+A toy app
+https://www.railstutorial.org/book/toy_app#cha-a_toy_app
